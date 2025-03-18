@@ -1,12 +1,10 @@
-# `devcontainer.json` templates
+# Reference Branch
 
-> *Templates for creating **development containers for use with GitHub Codespace**s*
+> *Reference materials used for creating and or maintaining the devcontainer template* 
 
 ---
 
-## Understanding GitHub Codespaces
-
-### Useful Links
+## Reference Links
 
 - [Comprehensive documentation for devcontainers on containers.dev](https://containers.dev/)
 - [List of possible devcontainer features](https://containers.dev/features)
@@ -15,6 +13,6 @@
 - [Conda Package Manager](https://docs.conda.io/projects/conda/en/latest/index.html)
   - [Anaconda Repository](https://repo.anaconda.com/)
 
-## Devcontainer Package Manager
+## Conda Package Manager
 
 Devcontainers can use the [Conda Package Manager](https://docs.conda.io/projects/conda/en/latest/index.html) and pull from the [Anaconda Repository](https://repo.anaconda.com/).
