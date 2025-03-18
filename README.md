@@ -1,6 +1,6 @@
-# codespaces
+# `devcontainer.json` templates
 
-> *Templates for use with GitHub Codespaces*
+> *Templates for creating **development containers for use with GitHub Codespace**s*
 
 ---
 
