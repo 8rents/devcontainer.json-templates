@@ -4,17 +4,15 @@
 
 ---
 
-## Understanding GitHub Codespaces
+The goal of this repository is to create a comprehensive `devcontainer.json` file containing nearly the entire schema that can be used as a template.
 
-### Useful Links
+The `devcontainer.json` template file will:
 
-- [Comprehensive documentation for devcontainers on containers.dev](https://containers.dev/)
-- [List of possible devcontainer features](https://containers.dev/features)
-- [Full devcontainer schema](https://containers.dev/implementors/json_schema/)
-- [NPM devcontainer Tool](https://containers.dev/implementors/json_schema/)
-- [Conda Package Manager](https://docs.conda.io/projects/conda/en/latest/index.html)
-  - [Anaconda Repository](https://repo.anaconda.com/)
-
-## Devcontainer Package Manager
-
-Devcontainers can use the [Conda Package Manager](https://docs.conda.io/projects/conda/en/latest/index.html) and pull from the [Anaconda Repository](https://repo.anaconda.com/).
+1. Be written in JavaScript object notation
+2. Have the most important key/values at the top of the file
+3. Have the key and value placed above the documentation comments
+4. Contain documentation comments below the key/value including:
+   1. Name (key)
+   2. Datatype for value
+   3. Description for the key / value
+   4. Possible / common values
