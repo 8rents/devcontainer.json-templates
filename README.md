@@ -4,6 +4,10 @@
 
 ---
 
+**Repository branches**: [main](https://github.com/8rents/devcontainer.json-templates/tree/main) | **reference** **|** [blank](https://github.com/8rents/devcontainer.json-templates/tree/blank)
+
+---
+
 ## Reference Links
 
 - [Comprehensive documentation for devcontainers on containers.dev](https://containers.dev/)
