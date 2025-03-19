@@ -6,7 +6,7 @@
 
 ---
 
-Repository branches: **main** | [reference](https://github.com/8rents/devcontainer.json-templates/tree/reference) **|** [blank](https://github.com/8rents/devcontainer.json-templates/tree/blank)
+**Repository branches**: **main** | [reference](https://github.com/8rents/devcontainer.json-templates/tree/reference) **|** [blank](https://github.com/8rents/devcontainer.json-templates/tree/blank)
 
 ---
 
